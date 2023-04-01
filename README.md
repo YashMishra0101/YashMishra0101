@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-Js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yash-mishra-356280223](https://www.linkedin.com/in/yash-mishra-356280223)
+- 👨‍💻 All of my live projects are available at [https://www.linkedin.com/in/yash-mishra-356280223](https://www.linkedin.com/in/yash-mishra-356280223)
 
 - 💬 Ask me about **HTML,CSS,Tailwind-CSS,JavaScript,React-JS,Next-Js**
 
