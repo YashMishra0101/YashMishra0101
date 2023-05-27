@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Mishra</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/73/93/78/1000_F_573937841_4jJdktJUUt0Xgp0xdmv56bpLUyph5LRA.jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1685185396~exp=1685185996~hmac=01dd5fd9eb0d2d40743911afbafb512d04c973ecc8f21db98d56a199f264915c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="yashmishra0101" /> </p>
 
@@ -12,7 +12,10 @@
 
 - 💬 Ask me about **HTML,CSS,Tailwind-CSS,JavaScript,React-JS**
 
-- 📫 How to reach me ** 9145191584 | [https://www.linkedin.com/in/yash-mishra-356280223](https://www.linkedin.com/in/yash-mishra-356280223) | yashrkm8822@gmail.com **
+- 📫 How to reach me 👉🏼
+  Contact no : 9145191584 |
+  Linkdin : [https://www.linkedin.com/in/yash-mishra-356280223](https://www.linkedin.com/in/yash-mishra-356280223) |
+  Gmail : yashrkm8822@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
