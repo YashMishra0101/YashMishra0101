@@ -1,42 +1,72 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
-
 <h1 align="center">Hi 👋, I'm Yash Mishra</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1685185396~exp=1685185996~hmac=01dd5fd9eb0d2d40743911afbafb512d04c973ecc8f21db98d56a199f264915c">
+
+<div align="center">
+<img height="150"src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="yashmishra0101" /> </p>
 
+- 👋 Hi, I'm Yash, , a Front-End Developer with strong skills in HTML, CSS, Tailwind CSS, and JavaScript and I'm currently learning React.js to take my skills to the next level , I love contributing to open source projects and the community 🤝
+
 - 🌱 I’m currently learning **React-Js**
 
-- 👨‍💻 All of my Live projects are available at [https://www.linkedin.com/in/yash-mishra-356280223](https://www.linkedin.com/in/yash-mishra-356280223)
+- 💬 Ask me about **HTML , CSS , Tailwind-CSS , JavaScript , React-JS  ,Firebase , SASS AND SEO**
 
-- 💬 Ask me about **HTML,CSS,Tailwind-CSS,JavaScript,React-JS**
-
-- 📫 How to reach me 👉🏼
-  Contact no : 9145191584 |
-  Linkdin : [https://www.linkedin.com/in/yash-mishra-356280223](https://www.linkedin.com/in/yash-mishra-356280223) |
+- 📫 My Contact Details 👇 <br>
+  Contact no : 9145191584  <br>
   Gmail : yashrkm8822@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@yashrkmishra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashrkmishra1" height="30" width="40" /><a href="https://www.linkedin.com/in/yash-mishra-356280223" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-mishra-356280223" height="30" width="40" />
-<a href="https://instagram.com/yash_rk_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_rk_mishra" height="30" width="40" />
-</p>
+## Connect with me: 
 
+<div>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-mishra-356280223/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="https://github.com/https://github.com/YashMishra0101" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>   
+  
+<a href="https://twitter.com/@YashRKMishra1" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+  
+<a href="https://instagram.com/yash_rk_mishra" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+</div>  
+  
 <h3 align="left">Languages and Tools:</h3>
   
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50"/> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50"/>
 </span>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmishra0101&show_icons=true&locale=en&layout=compact" alt="yashmishra0101" /></p>
+<br>
+<br>
 
+<h3 align="left">🔥   My Stats :</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&" alt="yashmishra0101" /></p
+  
+  <br>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&locale=en" alt="yashmishra0101" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&" alt="yashmishra0101" /></p>
+
+
+
+
+
 
