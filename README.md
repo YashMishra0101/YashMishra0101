@@ -29,11 +29,11 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>   
   
-<a href="https://instagram.com/yash_rk_mishra?igshid=ZDdkNTZiNTM=" target="_blank">
+<a href="https://twitter.com/YashRKMishra1?t=xad8RjWcodLC0uMjt9LM7A&s=09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
   
-<a href="https://instagram.com/yash_rk_mishra" target="_blank">
+<a href="https://www.instagram.com/yash_rk_mishra/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
