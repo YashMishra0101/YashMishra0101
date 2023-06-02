@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Mishra</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">Frontend Developer From India</h3>
 
 <div align="center">
 <img height="150"src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
@@ -21,15 +21,15 @@
 ## Connect with me: 
 
 <div>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-mishra-356280223/" target="_blank">
+<a href="https://www.linkedin.com/in/yash-mishra-356280223" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="https://github.com/https://github.com/YashMishra0101" target="_blank">
+<a href="https://github.com/YashMishra0101" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>   
   
-<a href="https://twitter.com/@YashRKMishra1" target="_blank">
+<a href="https://instagram.com/yash_rk_mishra?igshid=ZDdkNTZiNTM=" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
   
