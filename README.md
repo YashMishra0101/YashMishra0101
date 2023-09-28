@@ -67,3 +67,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=chartreuse-dark" alt="Yash Mishra" />
 </p>
 </div>
+<img src="https://holopin.me/yashmishra0101?user=https://holopin.io/@yashmishra0101" alt="Holopin badge of Yash Mishra"/>
+
