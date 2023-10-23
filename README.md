@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="yashmishra0101" /> </p>
 
-- 👋 Hi, I'm Yash, Front-End Developer who has a deep passion for web development. My expertise includes HTML, CSS, Tailwind CSS, JavaScript, React.js, and Firebase. I also have a strong desire to contribute to open-source projects. Currently, I am pursuing a Bachelor of Computer Application (BCA) degree at GH Raisoni, Nagpur, and I am in the final year of my course.
+- 👋 Hi, I'm Yash, a Front-End Developer with a deep passion for web development. My expertise includes HTML, CSS, Tailwind CSS, JavaScript, React.js, and Firebase. I also have a strong desire to contribute to open-source projects. Currently, I am pursuing a Bachelor of Computer Applications (BCA) degree at GH Raisoni, Nagpur, and I am in the final year of my program.
 
 - 🌱 I’m currently learning **React-JS** and **Firebase**.
 
