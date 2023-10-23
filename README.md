@@ -53,10 +53,10 @@
 
 <div>
 <p align="center">
-<a href="https://github.com/YashMishra0101">
-<img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/YashMishra0101">
+    <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p> 
 </div> 
 
@@ -64,7 +64,7 @@
 
 <div>
 <p align ="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=chartreuse-dark" alt="Yash Mishra" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=chartreuse-dark" alt="Yash Mishra" />
 </p>
 </div>
 <img src="https://holopin.me/yashmishra0101?user=https://holopin.io/@yashmishra0101" alt="Holopin badge of Yash Mishra"/>
