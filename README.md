@@ -54,12 +54,8 @@
 <div>
 <p align="center">
   <a href="https://github.com/YashMishra0101">
-    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api? 
-      username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-    />
-    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/? 
-     username=yashmishra0101&layout=compact&langs_count=8&theme=algolia"
-    />
+    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p> 
 </div> 
@@ -68,11 +64,9 @@
 
 <div>
 <p align ="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/? 
-   user=yashmishra0101&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&
-   sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" alt="Yash Mishra"
-  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true"  alt="Yash Mishra"/>
 </p>
+
   
 <p align = "center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashmishra0101&theme=2077" height="180em" />
