@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="yashmishra0101" /> </p>
 
-- 👋 Hi, I'm Yash, a Front-End Developer with a deep passion for web development. My expertise includes HTML, CSS, Tailwind CSS, JavaScript, React.js, and Firebase. I also have a strong desire to contribute to open-source projects. Currently, I am pursuing a Bachelor of Computer Applications (BCA) degree at GH Raisoni, Nagpur, and I am in the final year of my program.
+- 👋 Hi, I'm Yash, a Front-End Developer with a deep passion for web development. My expertise includes HTML, CSS, Tailwind CSS, JavaScript, React.js, and Firebase. I also have a strong desire to contribute to open-source projects. Currently, I'm pursuing my "Bachelor of Computer Applications" (BCA) degree at GH Raisoni, Nagpur, and currently, I am in the final year of my program.
+- 🏆 **Participant In :** 👩‍💻 GirlScript Summer of Code , 🌐 Social Summer Of Code , 🎃 Hacktoberfest
 
-- 🌱 I’m currently learning **React-JS** and **Firebase**.
+- 📫 **Contact Details :** Contact no: 9145191584 | Gmail: yashrkm8822@gmail.com
 
-- 📫 **Contact Details:** Contact no: 9145191584 | Gmail: yashrkm8822@gmail.com
 
 ## Connect with me: 
 
@@ -54,8 +54,12 @@
 <div>
 <p align="center">
   <a href="https://github.com/YashMishra0101">
-    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api? 
+      username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    />
+    <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/? 
+     username=yashmishra0101&layout=compact&langs_count=8&theme=algolia"
+    />
   </a>
 </p> 
 </div> 
@@ -64,13 +68,25 @@
 
 <div>
 <p align ="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" alt="Yash Mishra" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/? 
+   user=yashmishra0101&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&
+   sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" alt="Yash Mishra"
+  />
 </p>
-
-  <p align = "center">
+  
+<p align = "center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashmishra0101&theme=2077" height="180em" />
 </p>
 
-</div>
+<div align="center">
+  
 <img src="https://holopin.me/yashmishra0101?user=https://holopin.io/@yashmishra0101" alt="Holopin badge of Yash Mishra"/>
+
+<img src="https://media.licdn.com/dms/image/D5622AQHKLZpzfxqfSg/feedshare-shrink_2048_1536/0/1684676363286?e=1704326400&v=beta&t=cLA9Wl8o61zki4BrgHEuznKauBpBDuHoVDXs_KAwomY"/>
+
+<img  width="500em" src="https://media.licdn.com/dms/image/D5622AQE8RVBQnoGi4Q/feedshare-shrink_1280/0/1684674716032?e=1704326400&v=beta&t=p8Srs7MZ20Cb7T7-vcYkFzY2kfTPOeurWYlRi99OLFc"/>
+
+</div>
+
+
 
