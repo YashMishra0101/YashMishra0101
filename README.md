@@ -64,8 +64,13 @@
 
 <div>
 <p align ="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=chartreuse-dark" alt="Yash Mishra" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" alt="Yash Mishra" />
 </p>
+
+  <p align = "center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashmishra0101&theme=2077" height="180em" />
+</p>
+
 </div>
 <img src="https://holopin.me/yashmishra0101?user=https://holopin.io/@yashmishra0101" alt="Holopin badge of Yash Mishra"/>
 
