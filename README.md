@@ -10,7 +10,7 @@
 
 - 👋 Hi , I'm Yash, a passionate Front-End Developer with expertise in HTML, CSS, Tailwind CSS, JavaScript, React.js and Firebase. I'm also interested in open source and contributing to the community. Currently, I'm completing my 'Bachelor of Computer Applications' (BCA) degree at GH Raisoni, Nagpur, and I am in the final year of the program.
   
-- 🏆 **Participant In :** 👩‍💻 GirlScript Summer of Code , 🌐 Social Summer Of Code , 🎃 Hacktoberfest
+- 🏆 **Participant In :** 👩‍💻 GirlScript Summer of Code , 🌐 Social Summer Of Code and 🎃 Hacktoberfest
 
 - 📫 **Contact Details :** Contact no: 9145191584 | Gmail: yashrkm8822@gmail.com
 
