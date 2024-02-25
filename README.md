@@ -77,11 +77,12 @@
   
 <img src="https://holopin.me/yashmishra0101?user=https://holopin.io/@yashmishra0101" alt="Holopin badge of Yash Mishra"/>
 
-<img src="https://media.licdn.com/dms/image/D5622AQHKLZpzfxqfSg/feedshare-shrink_800/0/1684676363221?e=1707350400&v=beta&t=PqVbgGEn5SKyQp05pjnkRe8bzej5UngmpZsFqIYpAaY"/>
+<img src="https://media.licdn.com/dms/image/D5622AQHKLZpzfxqfSg/feedshare-shrink_800/0/1684676363221?e=1711584000&amp;v=beta&amp;t=7pZQCcoFJPFvlmiUWYDNz7GOxXvyu_FN8lhBz2pNtYc"/>
 
-<img  width="500em" src="https://media.licdn.com/dms/image/D5622AQE8RVBQnoGi4Q/feedshare-shrink_800/0/1684674716032?e=1707350400&v=beta&t=ZhPNXZdyoiexWFFaGRCB1wC1vLAbTUlhB-TI6ksScUc"/>
+<img  width="500em" src="https://media.licdn.com/dms/image/D5622AQE8RVBQnoGi4Q/feedshare-shrink_1280/0/1684674716032?e=1711584000&amp;v=beta&amp;t=aLSuibk6DCdSdm29gqfY92wxwT67zjQeF7EpiCuCmg0"/>
 
 </div>
+
 
 
 
