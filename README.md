@@ -13,7 +13,7 @@
 <h2 align="center">👋 Hi, I'm Yash!</h2>
 
 <p align="center">
-  <samp>A passionate MERN Stack Developer with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux-Toolkit, Firebase, MongoDB, Node.js, and Express. Interested in open source and contributing to the community. Currently completing BCA (Bachelor of Computer Applications) degree at GH Raisoni Nagpur, in the final year of the program.</samp>
+  <samp>A passionate MERN Stack Developer with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux-Toolkit, Firebase, MongoDB, Node.js, and Express.js. Interested in open source and contributing to the community. Currently completing BCA (Bachelor of Computer Applications) degree at GH Raisoni Nagpur, in the final year of the program.</samp>
 </p>
 
 <h3 align="center">🏆 Participant In:</h3>
