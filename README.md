@@ -12,7 +12,7 @@
 
 <div>
    <h2 align="center">👋 Hi, I'm Yash</h2>
-   <h6 align="center">Full Stack Developer & Freelancer</h6>
+   <h4 align="center">Full Stack Developer & Freelancer</h4>
 </div>
 
 <p align="center">
