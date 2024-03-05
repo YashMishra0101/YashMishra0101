@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <samp>A passionate MERN Stack Developer and Freelancer with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux-Toolkit, Firebase, MongoDB, Node.js, and Express.js. Interested in open source and contributing to the community. Currently completing BCA (Bachelor of Computer Applications) degree at GH Raisoni Nagpur, in the final year of the program.</samp>
+  <samp>A passionate Full Stack Developer (MERN Stack) and Freelancer with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux-Toolkit, Firebase, MongoDB, Node.js, and Express.js. Interested in open source and contributing to the community. Currently completing BCA (Bachelor of Computer Applications) degree at GH Raisoni Nagpur, in the final year of the program.</samp>
 </p>
 
 
