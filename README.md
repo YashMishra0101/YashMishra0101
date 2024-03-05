@@ -22,7 +22,7 @@
 
 <h3 align="center">🏆 Participant In:</h3>
 <p align="center">
-  <samp>👩‍💻 GirlScript Summer of Code, 🌐 Social Summer Of Code, and 🎃 Hacktoberfest</samp>
+  <samp>👩‍💻 GirlScript Summer of Code, 🌐 Social Summer Of Code and 🎃 Hacktoberfest</samp>
 </p>
 
 <h3 align="center">📫 Contact Details:</h3>
