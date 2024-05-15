@@ -83,6 +83,6 @@
 
 <div align="center">
   <img src="https://holopin.me/yashmishra0101?user=https://holopin.io/@yashmishra0101" alt="Holopin badge of Yash Mishra" style="margin-right: 5px;" />
-  <img src="https://media.licdn.com/dms/image/D5622AQE8RVBQnoGi4Q/feedshare-shrink_800/0/1684674716032?e=1715212800&v=beta&t=tlugA8OT-Rm65Rj9jqRgRv-j3wnj8Wh9dlG8zsvN-sw" style="margin-right: 5px;" />
-  <img width="500em" src="https://media.licdn.com/dms/image/D5622AQHKLZpzfxqfSg/feedshare-shrink_800/0/1684676363221?e=1715212800&v=beta&t=_dUqT6Rdhhfrh5rbRuVx42SJL4pJNJC0Cd-evw76JTo" style="margin-right: 5px;" />
+  <img src="https://media.licdn.com/dms/image/D5622AQHKLZpzfxqfSg/feedshare-shrink_2048_1536/0/1684676363286?e=1718841600&v=beta&t=hSZ7kSl5B75qeXR4UP7KwTltkEJ3_kshHjBp14xhYRs" style="margin-right: 5px;" />
+  <img width="500em" src="https://media.licdn.com/dms/image/D5622AQE8RVBQnoGi4Q/feedshare-shrink_1280/0/1684674716032?e=1718841600&v=beta&t=CCnkBSt3kdC6AV_7_BOahhVjA_3_eusY6GuLTA1kJ0g" style="margin-right: 5px;" />
 </div>
