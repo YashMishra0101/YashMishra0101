@@ -12,11 +12,11 @@
 
 <div>
    <h2 align="center">👋 Hi, I'm Yash</h2>
-   <h4 align="center">Full Stack Developer & Freelancer</h4>
+   <h4 align="center">Web Developer & Freelancer</h4>
 </div>
 
 <p align="center">
-  <samp>A passionate Full Stack Developer (MERN Stack) and Freelancer with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux-Toolkit, Firebase, MongoDB, Node.js, and Express.js. Interested in open source and contributing to the community. Currently completing BCA (Bachelor of Computer Applications) degree at GH Raisoni Nagpur, in the final year of the program.</samp>
+  <samp>👋 Hi, I'm Yash, a passionate Front-End Developer with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux Toolkit, and Firebase. I am also interested in open-source projects and contributing to the community. Recently, I completed my BCA (Bachelor of Computer Applications) degree at GH Raisoni, Nagpur. I'm currently seeking job opportunities to apply and expand my web development skills while actively enhancing my backend development skills, particularly in the MERN stack. If you're looking to hire a motivated and skilled developer, give me a chance. I won't disappoint you.</samp>
 </p>
 
 
