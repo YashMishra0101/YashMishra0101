@@ -83,9 +83,3 @@
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=yashmishra0101&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="center">
-  <img src="https://holopin.me/yashmishra0101?user=https://holopin.io/@yashmishra0101" alt="Holopin badge of Yash Mishra" style="margin-right: 5px;" />
-  <img src="https://media.licdn.com/dms/image/D5622AQHKLZpzfxqfSg/feedshare-shrink_2048_1536/0/1684676363286?e=1722470400&v=beta&t=Gdrl5Vij8vYoIH6IiWSdgUCAdS0ViMonpDe-e5x31xQ" style="margin-right: 5px;" />
-  <img width="500em" src="https://media.licdn.com/dms/image/D5622AQE8RVBQnoGi4Q/feedshare-shrink_800/0/1684674716032?e=1722470400&v=beta&t=avubZGAEinZtFscDINawt5REJBmVU4hqyNBD9Ny3xOc" style="margin-right: 5px;" />
-</div>
