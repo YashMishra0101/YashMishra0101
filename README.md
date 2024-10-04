@@ -1,5 +1,3 @@
-
-    
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Yash+Mishra;Web+Developer+From+India"/>
 </div>
@@ -34,7 +32,7 @@
         <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad) - <em>3 months (Remote)</em>
     </p>
 </div>
-<br>
+
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <div align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 5px;" />
