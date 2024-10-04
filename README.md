@@ -19,20 +19,6 @@
     👋 Hi, I’m Yash, a Full Stack Developer skilled in HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design, JavaScript, TypeScript, React.js, Redux Toolkit, Firebase, MongoDB, Express.js, and Node.js. I hold a BCA degree from GH Raisoni College, Nagpur, and have a strong passion for web development.
     I’m currently seeking job opportunities to apply and expand my web development skills. I’m confident in my ability to bring value to any team. If you're looking for a motivated and skilled developer, let’s connect I won’t disappoint you.
 </p>
-
- <h3 align="center">💼 Experience</h3>
-<div align="center">
-    <p>
-        <strong>Full Stack Intern</strong> at Sky Mentor Technology (Digital Marketing Agency, Nagpur) - <em>3 months (In Office)</em>
-    </p>
-    <p>
-        <strong>Part-Time Front-End Developer</strong> at PB Webcraft (Freelancing Agency, Nagpur) - <em>3 months (Hybrid)</em>
-    </p>
-    <p>
-        <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad) - <em>3 months (Remote)</em>
-    </p>
-</div>
-
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <div align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 5px;" />
@@ -49,6 +35,20 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="margin-right: 5px;" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" style="margin-right: 5px;" />
 </div>
+
+ <h3 align="center">💼 Experience</h3>
+<div align="center">
+    <p>
+        <strong>Full Stack Intern</strong> at Sky Mentor Technology (Digital Marketing Agency, Nagpur) - <em>3 months (In Office)</em>
+    </p>
+    <p>
+        <strong>Part-Time Front-End Developer</strong> at PB Webcraft (Freelancing Agency, Nagpur) - <em>3 months (Hybrid)</em>
+    </p>
+    <p>
+        <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad) - <em>3 months (Remote)</em>
+    </p>
+</div>
+
 
 <h3 align="center">📫 Contact Details:</h3>
 <p align="center">
