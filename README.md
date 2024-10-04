@@ -94,7 +94,7 @@
 <br>
 
 <div align="center">
-   <h2>🏆 My Achievements </h2>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=yashmishra0101&theme=radical&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
