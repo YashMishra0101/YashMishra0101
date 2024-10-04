@@ -1,4 +1,5 @@
 <blockquote>
+    
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Yash+Mishra;Web+Developer+From+India"/>
 </div>
@@ -76,8 +77,10 @@
 
 <div align="center">
     <a href="https://github.com/YashMishra0101">
-        <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <div>
+            <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=algolia"/>
+        </div>
     </a>
 </div> 
 
@@ -94,7 +97,8 @@
 <br>
 
 <div align="center">
-  
+<h3>🏆 My Achievements </h3>
+          
 [![trophy](https://github-profile-trophy.vercel.app/?username=yashmishra0101&theme=radical&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-  
+ 
 </div>
