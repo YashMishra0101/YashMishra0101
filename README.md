@@ -55,7 +55,7 @@
 
 <h3 align="center">📫 Contact Details:</h3>
 <p align="center">
-   ☎️ 9145191584 | 📬 yashrkm8822@gmail.com
+📬 yashrkm8822@gmail.com
 </p>
 
 <div align="center" style="background-color: #ffffff; padding: 25px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); border: 2px solid #e0e0e0;">
