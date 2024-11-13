@@ -16,20 +16,20 @@
 </div>
 
 <p align="center">
-    👋 Hi, I’m Yash, a Full Stack Developer skilled in HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design, JavaScript, TypeScript, React.js, Redux Toolkit, Firebase, MongoDB, Express.js, and Node.js. I hold a BCA degree from GH Raisoni College, Nagpur, and have a strong passion for web development.
-    I’m currently seeking job opportunities to apply and expand my web development skills. I’m confident in my ability to bring value to any team. If you're looking for a motivated and skilled developer, let’s connect I won’t disappoint you.
+  👋 Hi, I’m Yash, a Full Stack Developer skilled in HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design, JavaScript, TypeScript, React.js, Redux Toolkit, Firebase, MongoDB, Express.js, and Node.js. I hold a Bachelor of Computer Applications (BCA) degree from GH Raisoni College in Nagpur, India.
+  Currently, I’m actively seeking full-time opportunities to apply my skills and contribute to a dynamic team. If you're looking for a dedicated and skilled developer who can add real value, I’m confident I can fulfill your expectations. Let’s connect.
 </p>
 
  <h3 align="center">💼 Experience</h3>
 <div align="center">
     <p>
-        <strong>Full Stack Intern</strong> at Sky Mentor Technology (Digital Marketing Agency, Nagpur) - <em>3 months (In Office)</em>
+        <strong>Full Stack Intern</strong> at Sky Mentor Technology (Digital Marketing Agency, Nagpur , India ) - <em>3 months (In Office)</em>
     </p>
     <p>
-        <strong>Part-Time Front-End Developer</strong> at PB Webcraft (Freelancing Agency, Nagpur) - <em>3 months (Hybrid)</em>
+        <strong>Part-Time Front-End Developer</strong> at PB Webcraft (Freelancing Agency, Nagpur , India) - <em>3 months (Hybrid)</em>
     </p>
     <p>
-        <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad) - <em>3 months (Remote)</em>
+        <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad , India) - <em>3 months (Remote)</em>
     </p>
 </div>
 
