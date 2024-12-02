@@ -16,20 +16,18 @@
 </div>
 
 <p align="center">
-  👋 Hi, I’m Yash, a Full Stack Developer skilled in HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design, JavaScript, TypeScript, React.js, Redux Toolkit, Firebase, MongoDB, Express.js, and Node.js. I hold a Bachelor of Computer Applications (BCA) degree from GH Raisoni College in Nagpur, India.
-  Currently, I’m actively seeking full-time opportunities to apply my skills and contribute to a dynamic team. If you're looking for a dedicated and skilled developer who can add real value, I’m confident I can fulfill your expectations. Let’s connect.
-</p>
+👋 Hi, I’m Yash, a passionate Full Stack Developer with 9 months of hands-on experience, honing my development skills through internships and part-time roles. I am also a recent graduate with a Bachelor of Computer Applications (BCA) degree from GH Raisoni College, Nagpur, India.</p>
 
  <h3 align="center">💼 Experience</h3>
 <div align="center">
     <p>
-        <strong>Full Stack Intern</strong> at Sky Mentor Technology (Digital Marketing Agency, Nagpur , India ) - <em>3 months (In Office)</em>
+        <strong>Full Stack Intern</strong> at Sky Mentor Technology (Digital Marketing Agency, Nagpur , India ) - 3 months (In Office)
     </p>
     <p>
-        <strong>Part-Time Front-End Developer</strong> at PB Webcraft (Freelancing Agency, Nagpur , India) - <em>3 months (Hybrid)</em>
+        <strong>Part-Time Front-End Developer</strong> at PB Webcraft (Freelancing Agency, Nagpur , India) - 3 months (Hybrid)
     </p>
     <p>
-        <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad , India) - <em>3 months (Remote)</em>
+        <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad , India) - 3 months (Remote)
     </p>
 </div>
 
