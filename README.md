@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-👋 Hi, I’m Yash, a passionate Full Stack Developer with 9 months of hands-on experience, honing my development skills through Internships and Part-time roles. I am also a recent graduate with a Bachelor of Computer Applications (BCA) degree from GH Raisoni College, Nagpur, India.</p>
+👋 Hi, I’m Yash, a passionate Full Stack Developer with 9 months of hands-on experience gained through internships and part-time roles. I am also a recent graduate with a Bachelor of Computer Applications (BCA) degree from GH Raisoni College, Nagpur, India.</p>
 
  <h3 align="center">💼 Experience</h3>
 <div align="center">
