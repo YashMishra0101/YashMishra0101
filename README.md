@@ -27,7 +27,7 @@
         <strong>Part-Time Front-End Developer</strong> at PB Webcraft (Freelancing Agency, Nagpur , India) - 3 months (Hybrid)
     </p>
     <p>
-        <strong>Full Stack Intern</strong> at Coladco (Startup, Delhi-Faridabad , India) - 3 months (Remote)
+        <strong>Full Stack Intern</strong> at Coladco (Software Company, Delhi-Faridabad , India) - 3 months (Remote)
     </p>
 </div>
 
