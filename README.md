@@ -56,7 +56,7 @@
 📬 yashrkm8822@gmail.com
 </p>
 
-<div align="center" style="background-color: #ffffff; padding: 25px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); border: 2px solid #e0e0e0;">
+<div align="center" style="background-color: #ffffff; padding:30px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); border: 2px solid #e0e0e0;">
     <h3 style="color: #4A4A4A; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 20px;">Connect with Me</h3>
     <div style="display: flex; justify-content: center; gap: 10px;">
         <a href="https://www.linkedin.com/in/yash-mishra-356280223" target="_blank">
@@ -65,12 +65,8 @@
         <a href="https://twitter.com/YashRKMishra1?t=xad8RjWcodLC0uMjt9LM7A&s=09" target="_blank">
             <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" style="height: 30px; width: auto; transition: transform 0.3s; border-radius: 8px; border: 1px solid #ccc;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
         </a>
-        <a href="https://www.instagram.com/yash_rk_mishra/" target="_blank">
-            <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram" style="height: 30px; width: auto; transition: transform 0.3s; border-radius: 8px; border: 1px solid #ccc;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-        </a>  
-    </div>
 </div>
- 
+    
 <br>
 <h3 align="center">📊 GitHub Stats</h3>
 
