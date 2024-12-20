@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2300BFFF&size=32&center=true&vCenter=true&width=850&height=50&lines=Hi+👋,+I'm+Yash+Mishra;Full+Stack+Developer+From+India"/>
 </div>
 
+
 <div align="center">
     <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 </div>
