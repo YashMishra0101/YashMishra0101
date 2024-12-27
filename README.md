@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-👋 Hi, I’m Yash, a passionate Full Stack Developer with 9 months of hands-on experience gained through Internships and Part-time roles. I am also a recent graduate with a Bachelor of Computer Applications (BCA) degree from GH Raisoni College, Nagpur, India.</p>
+👋 Hi, I’m Yash Mishra, a passionate Full Stack Developer with strong knowledge and hands-on experience in JavaScript, React.js, TypeScript, Express.js and MongoDB, gained through various internships and part-time roles. I recently graduated with a Bachelor of Computer Applications (BCA) degree from GH Raisoni College, Nagpur, India.</p>
 
  <h3 align="center">💼 Experience</h3>
 <div align="center">
