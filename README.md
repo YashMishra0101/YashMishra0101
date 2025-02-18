@@ -14,6 +14,7 @@
 <div align="center">
     <h2>👋 Hi, I'm Yash</h2>
     <h4>Full Stack Developer</h4>
+    (🤚 Most of my repositories are private 🔒.)
 </div>
 
 <p align="center">
