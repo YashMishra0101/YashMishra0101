@@ -9,12 +9,14 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="yashmishra0101" /> 
+    <p align="center"> 
+    (🤚 Most of my repositories are Private 🔒)
+</p>
 </p>
 
 <div align="center">
     <h2>👋 Hi, I'm Yash</h2>
     <h4>Full Stack Developer</h4>
-    (🤚 Most of my repositories are private 🔒.)
 </div>
 
 <p align="center">
