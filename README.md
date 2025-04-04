@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-👋 Hi, I’m Yash Mishra, a passionate Full Stack Developer with strong knowledge and hands-on experience in JavaScript, React.js, TypeScript, Node.Js, Express.js and MongoDB, gained through various internships and part-time roles. I recently graduated with a Bachelor of Computer Applications (BCA) degree from GH Raisoni College, Nagpur, India.</p>
+👋 Hi, I’m Yash Mishra, a passionate Full Stack Developer with strong knowledge and hands-on experience in JavaScript, React.js, TypeScript, Node.Js, Express.js and MongoDB, gained through various internships and part-time roles. I recently graduated with a Bachelor of Computer Applications degree from GH Raisoni College, Nagpur, India.</p>
 
  <h3 align="center">💼 Experience</h3>
 <div align="center">
