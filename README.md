@@ -30,6 +30,9 @@
     <p>
         <strong>Full Stack Intern</strong> at Coladco (Software Company, Delhi-Faridabad , India) - 3 months (Remote)
     </p>
+    <p>
+        <strong>Freelance Web Developer</strong> Freelancer - 2 months (Remote)
+    </p>
 </div>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
