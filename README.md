@@ -47,7 +47,7 @@
       <td>Remote</td>
     </tr>
     <tr>
-      <td>Freelance Developer</td>
+      <td>Freelancer</td>
       <td>Self-Employed</td>
       <td>Work From Home</td>
       <td>3 months</td>
