@@ -88,8 +88,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.herokuapp.com/api?username=yashmishra0101&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=radical" alt="GitHub Streak"/>
 </div>
 
@@ -108,5 +108,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/yashmishra0101/yashmishra0101/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
+
+
