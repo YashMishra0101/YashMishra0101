@@ -9,7 +9,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="yashmishra0101" /> 
   <img src="https://img.shields.io/github/followers/yashmishra0101?label=Follow&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/badge/Status-Coding%20🚀-brightgreen" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Coding%20🧑‍💻-brightgreen" alt="Status"/>
 </p>
 
 <div align="center">
