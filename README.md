@@ -88,27 +88,34 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yash-mishra-356280223" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YashRKMishra1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:yashrkm0011@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/yash-mishra-356280223" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://twitter.com/YashRKMishra1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+  </a>
+  <a href="mailto:yashrkm0011@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://github.com/yashmishra0101" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmishra0101&custom_title=Yash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A8DADC&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
-
-
