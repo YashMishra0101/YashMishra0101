@@ -113,9 +113,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
   </a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmishra0101&custom_title=Yash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A8DADC&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+</div> -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
