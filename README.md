@@ -109,9 +109,6 @@
   <a href="mailto:yashrkm0011@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://github.com/yashmishra0101" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
-  </a>
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmishra0101&custom_title=Yash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A8DADC&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
