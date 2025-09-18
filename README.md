@@ -88,8 +88,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra0101&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
