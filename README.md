@@ -96,10 +96,6 @@
 ## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/yash-mishra-356280223" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
@@ -109,6 +105,10 @@
   <a href="mailto:yashrkm0011@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmishra0101&custom_title=Yash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A8DADC&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
