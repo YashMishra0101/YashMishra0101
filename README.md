@@ -87,11 +87,37 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&custom_title=Most%20Used%20Languages" alt="Most Used Languages"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=yashmishra0101&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&currStreakNum=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="GitHub Streak"/>
+<!-- ===== Row 1: GitHub Stats + Top Languages ===== -->
+<div align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+
+  <!-- GitHub Stats -->
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats"
+    style="width:430px;"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
+    alt="Most Used Languages"
+    style="width:430px;"
+  />
+
 </div>
+
+<!-- ===== Row 2: Streak Stats ===== -->
+<div align="center" style="margin-top:10px;">
+  <img 
+    height="180em"
+    src="https://streak-stats.demolab.com?user=yashmishra0101&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&currStreakNum=22D3EE&currStreakLabel=22D3EE&background=0D1117"
+    alt="GitHub Streak"
+    style="width:430px;"
+  />
+</div>
+
 
 ## 📫 Let's Connect
 
