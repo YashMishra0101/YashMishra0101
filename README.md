@@ -88,10 +88,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" width="400px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  alt="Yash Mishra GitHub Stats"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
+  <img height="180em" width="350px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  alt="Yash Mishra GitHub Stats"/>
+  <img height="180em" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
  alt="Most Used Languages"/>
-  <img height="180em" width="400px" src="https://streak-stats.demolab.com?user=yashmishra0101&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&currStreakNum=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="GitHub Streak"/>
+  <img height="180em" width="350px" src="https://streak-stats.demolab.com?user=yashmishra0101&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&currStreakNum=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ## 📫 Let's Connect
