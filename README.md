@@ -85,15 +85,6 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" width="350px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  alt="Yash Mishra GitHub Stats"/>
-  <img height="160em" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
- alt="Most Used Languages"/>
-  <img height="160em" width="450px" src="https://streak-stats.demolab.com?user=yashmishra0101&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&currStreakNum=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="GitHub Streak"/>
-</div>
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -111,6 +102,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
 </div>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img height="160em" width="350px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  alt="Yash Mishra GitHub Stats"/>
+  <img height="160em" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
+ alt="Most Used Languages"/>
+  <img height="160em" width="450px" src="https://streak-stats.demolab.com?user=yashmishra0101&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=FF6B6B&currStreakNum=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="GitHub Streak"/>
 </div>
