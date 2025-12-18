@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+%7C;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,18 +7,18 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20views&color=0e75b6&style=flat" alt="yashmishra0101" /> 
-  <img src="https://img.shields.io/github/followers/yashmishra0101?label=Follow&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/badge/Status-Coding%20🧑‍💻-brightgreen" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=0ea5e9&style=flat" alt="yashmishra0101" /> 
+  <img src="https://img.shields.io/badge/Status-Coding%20🧑‍💻-8b5cf6" alt="Status"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Looking%20for%20a%20Job-22c55e" alt="Actively Seeking Opportunities"/>
 </p>
+
 
 <div align="center">
   <h2>🌟 About Me</h2>
 </div>
-<p align="center">(🔥🔒 Most of my Repositories are Private 🔒🔥)</p>
 
 <p align="center">
- 👋 Hi, I'm Yash Mishra, a passionate Full Stack Developer with strong knowledge and hands-on experience in JavaScript, React.js, TypeScript, Node.js, Express.js, and MongoDB, gained through various internships and part-time roles. I graduated with a Bachelor of Computer Applications (BCA) degree from GH Raisoni College, Nagpur, India.
+👋 Hi, I’m Yash Mishra, a passionate Full Stack Developer with hands-on experience in building web applications using JavaScript, React.js, TypeScript, Node.js, Express.js and MongoDB. I have gained practical experience through Internships and Freelancing, where I focused on writing clean, efficient code and delivering reliable solutions.
 </p>
 
 ## 👨‍💻 Experience
@@ -74,6 +74,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
@@ -81,8 +82,14 @@
 ### Tools
 <div align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="Anti-Gravity" src="https://img.shields.io/badge/Anti--Gravity-6C63FF?style=for-the-badge"/>
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge"/>
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-111827?style=for-the-badge"/>
 </div>
 
 ## 📫 Let's Connect
@@ -92,7 +99,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
  <a href="https://twitter.com/YashRKMishra1" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter (X)"/>
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter (X)"/>
 </a>
 <a href="mailto:yashrkm0011@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Mail"/>
