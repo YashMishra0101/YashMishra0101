@@ -7,11 +7,10 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=0ea5e9&style=flat" alt="yashmishra0101" /> 
-  <img src="https://img.shields.io/badge/Status-Coding%20🧑‍💻-8b5cf6" alt="Status"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Looking%20for%20a%20Job-22c55e" alt="Actively Seeking Opportunities"/>
+  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=2ea44f&style=flat" alt="yashmishra0101" /> 
+  <img src="https://img.shields.io/badge/Status-Coding-2ea44f?style=flat&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-2ea44f?style=flat&logo=linkedin&logoColor=white" alt="Actively Seeking Opportunities"/>
 </p>
-
 
 <div align="center">
   <h2>🌟 About Me</h2>
@@ -112,7 +111,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
 </div>
-
 
 ## 📊 GitHub Stats
 
