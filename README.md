@@ -78,13 +78,7 @@
 <div align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <!-- <img alt="Anti-Gravity" src="https://img.shields.io/badge/Anti--Gravity-6C63FF?style=for-the-badge"/>
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4796E3?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4F6BFD?style=for-the-badge"/> -->
 </div>
 
 ## 📫 Let's Connect
