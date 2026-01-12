@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&height=45&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&height=45&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,9 +7,9 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=F59E0B&style=flat" alt="yashmishra0101" /> 
-  <img src="https://img.shields.io/badge/Status-Coding-F59E0B?style=flat&logo=github&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-F59E0B?style=flat&logo=linkedin&logoColor=white" alt="Actively Seeking Opportunities"/>
+  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=0EA5E9&style=flat" alt="yashmishra0101" /> 
+  <img src="https://img.shields.io/badge/Status-Coding-0EA5E9?style=flat&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-0EA5E9?style=flat&logo=linkedin&logoColor=white" alt="Actively Seeking Opportunities"/>
 </p>
 
 <div align="center">
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
   </a>
   <a href="https://yash-rk-mishra.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -105,10 +105,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
-  <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Most Used Languages"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
+  <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
-  <img width="650em" height="165em" src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img width="650em" height="165em" src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
