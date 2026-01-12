@@ -105,10 +105,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Most Used Languages"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
+  <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
-  <img width="600em" src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img width="610em" height="160em" src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </div>
