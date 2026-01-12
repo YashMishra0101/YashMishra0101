@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&height=50&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,9 +7,9 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=2ea44f&style=flat" alt="yashmishra0101" /> 
-  <img src="https://img.shields.io/badge/Status-Coding-2ea44f?style=flat&logo=github&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-2ea44f?style=flat&logo=linkedin&logoColor=white" alt="Actively Seeking Opportunities"/>
+  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=F59E0B&style=flat" alt="yashmishra0101" /> 
+  <img src="https://img.shields.io/badge/Status-Coding-F59E0B?style=flat&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-F59E0B?style=flat&logo=linkedin&logoColor=white" alt="Actively Seeking Opportunities"/>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-👋 Hi, I’m Yash Mishra, a passionate Full Stack Developer with hands-on experience in building web applications using JavaScript, React.js, TypeScript, Node.js, Express.js and MongoDB. I have gained practical experience through Internships and Freelancing, where I focused on writing clean, efficient code and delivering reliable solutions.
+👋 Hi, I'm Yash Mishra, a passionate Full Stack Developer with hands-on experience in building web applications using JavaScript, React.js, TypeScript, Node.js, Express.js and MongoDB. I have gained practical experience through Internships and Freelancing, where I focused on writing clean, efficient code and delivering reliable solutions.
 </p>
 
 ## 👨‍💻 Experience
@@ -87,12 +87,15 @@
   <a href="https://www.linkedin.com/in/yash-mishra-356280223" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://twitter.com/YashRKMishra1" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter (X)"/>
-</a>
-<a href="mailto:yashrkm0011@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Mail"/>
-</a>
+  <a href="https://twitter.com/YashRKMishra1" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)"/>
+  </a>
+  <a href="mailto:yashrkm0011@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+  </a>
+  <a href="https://yash-rk-mishra.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 <div align="center">
@@ -102,8 +105,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" width="350px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  alt="Yash Mishra GitHub Stats"/>
-  <img height="160em" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
- alt="Most Used Languages"/>
-  <img height="160em" width="450px" <img src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Most Used Languages"/>
+</div>
+
+<div align="center">
+  <img width="600em" src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </div>
