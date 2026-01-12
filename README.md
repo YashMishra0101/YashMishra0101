@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&height=50&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=850&height=45&lines=Hi+👋%2C+I'm+Yash+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 </p>
 
 <div align="center">
-  <h2>🌟 About Me</h2>
+  <h2> About Me</h2>
 </div>
 
 <p align="center">
 👋 Hi, I'm Yash Mishra, a passionate Full Stack Developer with hands-on experience in building web applications using JavaScript, React.js, TypeScript, Node.js, Express.js and MongoDB. I have gained practical experience through Internships and Freelancing, where I focused on writing clean, efficient code and delivering reliable solutions.
 </p>
 
-## 👨‍💻 Experience
+## Experience
 
 <div align="center">
   <table>
@@ -55,7 +55,7 @@
   </table>
 </div>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -81,7 +81,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yash-mishra-356280223" target="_blank">
@@ -102,7 +102,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
@@ -110,5 +110,5 @@
 </div>
 
 <div align="center">
-  <img width="610em" height="160em" src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img width="650em" height="165em" src="https://github-readme-streak-stats-tewt.vercel.app?user=YashMishra0101&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </div>
