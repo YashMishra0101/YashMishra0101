@@ -7,7 +7,6 @@
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yashmishra0101&label=Profile%20Views&color=0EA5E9&style=flat" alt="yashmishra0101" /> 
   <img src="https://img.shields.io/badge/Status-Coding-0EA5E9?style=flat&logo=github&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-0EA5E9?style=flat&logo=linkedin&logoColor=white" alt="Actively Seeking Opportunities"/>
 </p>
