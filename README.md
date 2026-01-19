@@ -94,7 +94,7 @@
   <a href="mailto:yashrkm0011@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
   </a>
-  <a href="https://yash-rk-mishra.vercel.app" target="_blank">
+  <a href="https://yashrkmishra.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
