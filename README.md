@@ -31,21 +31,21 @@
       <th>Type</th>
     </tr>
     <tr>
-      <td>Full Stack Intern</td>
+      <td>Full Stack Developer - Internship</td>
       <td>Sky Mentor Technology</td>
       <td>Nagpur, India</td>
       <td>3 months</td>
       <td>In Office</td>
     </tr>
     <tr>
-      <td>Full Stack Intern</td>
+      <td>Full Stack Developer - Internship</td>
       <td>Coladco</td>
       <td>Delhi-Faridabad, India</td>
       <td>3 months</td>
       <td>Remote</td>
     </tr>
     <tr>
-      <td>Freelancer</td>
+      <td>Freelance Web Developer</td>
       <td>Self-Employed</td>
       <td>Work From Home</td>
       <td>3 months</td>
