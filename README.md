@@ -16,8 +16,9 @@
 </div>
 
 <p align="center">
-👋 Hi, I'm Yash Mishra, a passionate Full Stack Developer with hands-on experience in building web applications using JavaScript, React.js, TypeScript, Node.js, Express.js and MongoDB. I have gained practical experience through Internships and Freelancing, where I focused on writing clean, efficient code and delivering reliable solutions.
+👋 Hi, I'm Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, PostgreSQL, MongoDB, Prisma and Mongoose. I have gained practical experience through internships and freelancing, where I focused on writing clean, efficient and scalable code while delivering reliable solutions.
 </p>
+
 
 ## Experience
 
@@ -69,10 +70,12 @@
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+<div align="center">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
-
 
 
 ## Let's Connect
