@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-👋 Hi, I'm Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, PostgreSQL, MongoDB, Prisma and Mongoose. I have gained practical experience through internships and freelancing, where I focused on writing clean, efficient and scalable code while delivering reliable solutions.
+👋 Hi, I am Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, MongoDB, PostgreSQL and MERN & PERN stacks. I have gained practical experience through internships and freelancing, where I focused on writing clean, efficient and scalable code while delivering reliable solutions.
 </p>
 
 
