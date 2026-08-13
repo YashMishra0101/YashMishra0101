@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&height=45&lines=Hi+👋%2C+I'm+Yash+RK+Mishra" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&height=45&lines=Hi+👋%2C+I'm+Yash+RK+Mi[...]"/>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-👋 Hi, I am Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, MongoDB, PostgreSQL and MERN & PERN stacks. I have gained proficiency in modern web technologies and best practices for creating scalable, maintainable, and performant applications.
+👋 Hi, I am Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, MongoDB, PostgreSQL and MERN & PERN stacks. I have gain[...]
 </p>
 
 
@@ -73,6 +73,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img alt="AI Integration" src="https://img.shields.io/badge/AI_Integration-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 <div align="center">
@@ -107,8 +108,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=[...]"
+  <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Use[...]"/>
 </div>
 
 <div align="center">
