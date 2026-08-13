@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&height=45&lines=Hi+👋%2C+I'm+Yash+RK+Mishra;Full+Stack+Developer+from+India;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&height=45&lines=Hi+👋%2C+I'm+Yash+RK+Mishra" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-👋 Hi, I am Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, MongoDB, PostgreSQL and MERN & PERN stacks. I have gained practical experience through internships and freelancing, where I focused on writing clean, efficient and scalable code while delivering reliable solutions.
+👋 Hi, I am Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, MongoDB, PostgreSQL and MERN & PERN stacks. I have gained proficiency in modern web technologies and best practices for creating scalable, maintainable, and performant applications.
 </p>
 
 
@@ -70,6 +70,7 @@
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
@@ -106,7 +107,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </div>
 
