@@ -16,7 +16,8 @@
 </div>
 
 <p align="center">
-👋 Hi, I am Yash Mishra, a Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Express.js, MongoDB, PostgreSQL and MERN & PERN stacks. I have gained practical experience through internships and freelancing, where I focused on writing clean, efficient and scalable code while delivering reliable solutions.
+👋 Hi, I am Yash Mishra, a Full Stack Developer with hands-on experience building web applications across the MERN and PERN stacks using TypeScript, Redis and Docker.
+I have gained practical experience through internships, freelancing and personal projects, where I focus on writing clean, efficient and maintainable code while building reliable web applications.
 </p>
 
 
