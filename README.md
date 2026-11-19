@@ -103,8 +103,9 @@ I have gained practical experience through internships, freelancing and personal
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
-  <img height="165em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yashmishra0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yash Mishra GitHub Stats"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
